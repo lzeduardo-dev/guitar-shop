@@ -1,0 +1,29 @@
+{
+  "name": "guitar-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lzeduardo-dev/guitar-shop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lzeduardo-dev/guitar-shop/issues"
+  },
+  "homepage": "https://github.com/lzeduardo-dev/guitar-shop#readme",
+  "dependencies": {
+    "@prisma/client": "^7.10.0",
+    "nestjs": "^0.0.1",
+    "tsx": "^4.23.13"
+  },
+  "devDependencies": {
+    "prisma": "^7.10.0",
+    "typescript": "^7.0.2"
+  }
+}
